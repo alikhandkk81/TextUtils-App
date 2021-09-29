@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/alikhandkk81/TextUtils-App/static/css/main.a617e044.chunk.css",
+    "main.js": "/alikhandkk81/TextUtils-App/static/js/main.21e52629.chunk.js",
+    "main.js.map": "/alikhandkk81/TextUtils-App/static/js/main.21e52629.chunk.js.map",
+    "runtime-main.js": "/alikhandkk81/TextUtils-App/static/js/runtime-main.810fc5f0.js",
+    "runtime-main.js.map": "/alikhandkk81/TextUtils-App/static/js/runtime-main.810fc5f0.js.map",
+    "static/js/2.77581503.chunk.js": "/alikhandkk81/TextUtils-App/static/js/2.77581503.chunk.js",
+    "static/js/2.77581503.chunk.js.map": "/alikhandkk81/TextUtils-App/static/js/2.77581503.chunk.js.map",
+    "static/js/3.f111085d.chunk.js": "/alikhandkk81/TextUtils-App/static/js/3.f111085d.chunk.js",
+    "static/js/3.f111085d.chunk.js.map": "/alikhandkk81/TextUtils-App/static/js/3.f111085d.chunk.js.map",
+    "index.html": "/alikhandkk81/TextUtils-App/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/alikhandkk81/TextUtils-App/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.77581503.chunk.js.LICENSE.txt": "/alikhandkk81/TextUtils-App/static/js/2.77581503.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.810fc5f0.js",
+    "static/js/2.77581503.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.21e52629.chunk.js"
+  ]
+}
